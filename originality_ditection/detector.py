@@ -10,8 +10,8 @@ class detector:
         self.model_path = model_path
         self.ai_degree = ai_degree
         self.human_degree = human_degree
-        self.detect_model = model.Model(self.model_path)
         self.sanity_check()
+        self.detect_model = model.Model(self.model_path)
 
     def sanity_check(self) -> None:
         if os.path.exists(self.model_path) == False:
