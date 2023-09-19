@@ -14,7 +14,7 @@
 
    [ダウンロードリンク](https://www.dropbox.com/scl/fo/l2nl14cemund13xy0xzmb/h?rlkey=ba2kfqnnaymnk8je43z4tlxi9&dl=1)
 
-2. Pythonの仮想環境を作成し、お使いの python パッケージマネージャーでこのパッケージをインストールします。
+2. Python の仮想環境を作成し、お使いの python パッケージマネージャーでこのパッケージをインストールします。
 
 > #### pip
 >
@@ -34,7 +34,9 @@
 > poetry add git+https://github.com/arara1930/originality_ditection.git
 > ```
 
-3. 以下、サンプルコードを参考に判定を行って見てください〜！
+3. 以下、サンプルコードを参考に判定を行って見てください！
+
+[サンプルコード](https://github.com/arara1930/originality_ditection/blob/main/detector_sample.py)
 
 ## 作成
 
