@@ -38,6 +38,12 @@
 
 [サンプルコード](https://github.com/arara1930/originality_ditection/blob/main/detector_sample.py)
 
+## Q&A
+
+> ・文章を一文にする場合はどうすれば良いですか
+>
+> 文章を一文にパースしたい場合は[こちら](https://github.com/wwwcojp/ja_sentence_segmenter)等のライブラリを参考にしてください
+
 ## 作成
 
 - Mizuki Baba (Twitter -> [@lovelovetrb](https://twitter.com/lovelovetrb) )
